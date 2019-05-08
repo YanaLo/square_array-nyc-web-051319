@@ -3,4 +3,4 @@ def square_array(array)
   array.each |i|i*i
     # array=i*i
 end
-end
+# end
